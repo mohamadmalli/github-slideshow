@@ -1,10 +1,6 @@
 ---
-
 layout: slide
-
 title: "Hello World"
-
 ---
-
-Your text
+##My second message
 Use the left arrow to go back!
